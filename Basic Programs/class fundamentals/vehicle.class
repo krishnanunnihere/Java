@@ -1,7 +1,0 @@
-class vehicle
-{
-    int passengers;
-    int fuelcap;
-    int mpg;
-    
-}
